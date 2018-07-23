@@ -59,7 +59,7 @@
 	<key>documentationVerticalSplitViewPosition</key>
 	<real>325</real>
 	<key>drawSceneBackgrounds</key>
-	<true/>
+	<false/>
 	<key>exportScriptArgumentsInspectorHeight</key>
 	<real>0.0</real>
 	<key>exportScriptDocumentArguments</key>
@@ -77,11 +77,11 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2018-07-23T11:57:59Z</date>
+	<date>2018-07-23T12:25:36Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>1</integer>
+		<integer>0</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -506,7 +506,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>13</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 2}</string>
+					<string>{0, 4}</string>
 				</dict>
 			</array>
 		</dict>
@@ -571,7 +571,7 @@
 	<array>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>1AC8DDE1-F162-4160-B01A-8F683B46105B-26692-000029181518A228</string>
+			<string>90F6EB17-F73E-484F-BF25-8EDE9F3ED714-2397-000000246D732B5A</string>
 			<key>selectedObjects</key>
 			<array/>
 			<key>symbol</key>
@@ -588,27 +588,27 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FF0000</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -696,15 +696,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>1</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>1920px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -726,15 +726,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#FF0000</string>
 						</dict>
 					</array>
 					<key>6</key>
@@ -747,15 +747,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#FF0000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -765,15 +765,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -895,15 +895,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FF0000</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>7</key>
@@ -916,9 +916,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1072,9 +1072,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#FFFFFF</string>
 						</dict>
 					</array>
 					<key>8</key>
@@ -1087,9 +1087,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#FFFFFF</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1243,9 +1243,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -2373,7 +2373,7 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>1AC8DDE1-F162-4160-B01A-8F683B46105B-26692-000029181518A228</string>
+			<string>90F6EB17-F73E-484F-BF25-8EDE9F3ED714-2397-000000246D732B5A</string>
 			<key>selectedObjects</key>
 			<array/>
 			<key>symbol</key>
